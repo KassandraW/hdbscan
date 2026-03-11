@@ -9,3 +9,6 @@ dist/*
 notebooks/.ipynb_checkpoints/*
 __pycache__/
 
+# manually added
+.venv/
+hdbscan/*.c
