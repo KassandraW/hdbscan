@@ -11,4 +11,6 @@ __pycache__/
 
 # manually added
 .venv/
-hdbscan/*.c
+hdbscan/*.c 
+
+hdbscan/*.cpython*
